@@ -39,28 +39,28 @@ Every topic includes:
 
 # 🛣️ Learning Roadmap
 
-| Day | Topic | Status |
-|------|-------|--------|
-| Day 01 | Linux Introduction | ⏳ |
-| Day 02 | Basic Linux Commands | ⏳ |
-| Day 03 | Linux File System | ⏳ |
-| Day 04 | File Permissions | ⏳ |
-| Day 05 | Users & Groups | ⏳ |
-| Day 06 | Process Management | ⏳ |
-| Day 07 | Package Management | ⏳ |
-| Day 08 | Networking Commands | ⏳ |
-| Day 09 | Storage Management | ⏳ |
-| Day 10 | Services (systemctl) | ⏳ |
-| Day 11 | Cron Jobs | ⏳ |
-| Day 12 | Shell Scripting Basics | ⏳ |
-| Day 13 | Shell Scripting Advanced | ⏳ |
-| Day 14 | Linux Security | ⏳ |
-| Day 15 | Log Management | ⏳ |
-| Day 16 | Monitoring & Performance | ⏳ |
-| Day 17 | SSH & Remote Access | ⏳ |
-| Day 18 | Apache & Nginx | ⏳ |
-| Day 19 | Linux Automation | ⏳ |
-| Day 20 | Linux Mini Projects | ⏳ |
+| Day | Topic |
+|------|-------|
+| Day 01 | Linux Introduction |
+| Day 02 | Basic Linux Commands ||
+| Day 03 | Linux File System |
+| Day 04 | File Permissions |
+| Day 05 | Users & Groups |
+| Day 06 | Process Management |
+| Day 07 | Package Management |
+| Day 08 | Networking Commands |
+| Day 09 | Storage Management |
+| Day 10 | Services (systemctl) |
+| Day 11 | Cron Jobs |
+| Day 12 | Shell Scripting Basics |
+| Day 13 | Shell Scripting Advanced |
+| Day 14 | Linux Security |
+| Day 15 | Log Management |
+| Day 16 | Monitoring & Performance |
+| Day 17 | SSH & Remote Access |
+| Day 18 | Apache & Nginx |
+| Day 19 | Linux Automation |
+| Day 20 | Linux Mini Projects |
 
 ---
 
@@ -260,22 +260,6 @@ Some practical Linux projects included:
 
 ---
 
-# 📈 Progress Tracker
-
-- [ ] Linux Basics
-- [ ] File System
-- [ ] Basic Commands
-- [ ] Permissions
-- [ ] Users & Groups
-- [ ] Networking
-- [ ] Storage
-- [ ] Services
-- [ ] Shell Scripting
-- [ ] Linux Administration
-- [ ] Projects
-
----
-
 # 🛠️ Tools Used
 
 - Ubuntu Linux
@@ -283,7 +267,7 @@ Some practical Linux projects included:
 - Git
 - GitHub
 - VS Code
-- VirtualBox / VMware (if applicable)
+- Oracle VirtualBox
 - AWS EC2 Linux Instances
 
 ---
