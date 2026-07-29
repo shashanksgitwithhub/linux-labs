@@ -25,7 +25,7 @@ The objective of this lab is to understand the fundamentals of Linux, its archit
 
 ---
 
-# 📖 Theory
+# Theory
 
 ## What is Linux?
 
@@ -84,17 +84,10 @@ Benefits:
 
 Linux follows a layered architecture.
 
-```
-+-------------------------+
-|      Applications       |
-+-------------------------+
-|         Shell           |
-+-------------------------+
-|         Kernel          |
-+-------------------------+
-|        Hardware         |
-+-------------------------+
-```
+
+<img width="322" height="322" alt="Linux_archi drawio" src="https://github.com/user-attachments/assets/c3a197e6-f61d-4b8f-94bd-df2bd3b9346a" />
+
+
 
 ### Hardware
 
@@ -191,7 +184,7 @@ Linux plays a vital role in DevOps because engineers use it to:
 
 ---
 
-# 🛠️ Practical Performed
+# Practical Performed
 
 - Learned the basics of Linux.
 - Understood Linux architecture.
@@ -201,26 +194,9 @@ Linux plays a vital role in DevOps because engineers use it to:
 
 ---
 
-# 💻 Commands Used
+# Commands Used
 
 No Linux commands were executed during Day-01.
-
----
-
-# 🏗️ Architecture Diagram
-
-```
-                User
-                  │
-                  ▼
-             Linux Shell
-                  │
-                  ▼
-             Linux Kernel
-                  │
-                  ▼
-             Computer Hardware
-```
 
 ---
 
@@ -235,7 +211,7 @@ No Linux commands were executed during Day-01.
 
 ---
 
-# 💼 Interview Questions
+# Interview Questions
 
 ### 1. What is Linux?
 
