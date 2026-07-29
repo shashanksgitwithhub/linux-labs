@@ -5,13 +5,13 @@
 
 # 🐧 Day-02 - Basic Linux Commands
 
-## 🎯 Objective
+## Objective
 
 The objective of this lab is to understand and practice basic Linux commands used for navigating the file system, managing files and directories, retrieving system information, and configuring OpenSSH Server for a better command-line experience.
 
 ---
 
-# 📚 Topics Covered
+# Topics Covered
 
 - pwd
 - ls
@@ -30,7 +30,7 @@ The objective of this lab is to understand and practice basic Linux commands use
 
 ---
 
-# 📖 Theory
+# Theory
 
 ## What is a Linux Command?
 
@@ -271,7 +271,7 @@ This eliminates the need to work continuously in the VirtualBox console and prov
 
 ---
 
-# 🛠️ Practical Performed
+# Practical Performed
 
 Performed the following tasks:
 
@@ -293,7 +293,7 @@ Performed the following tasks:
 
 ---
 
-# 💻 Commands Used
+# Commands Used
 
 ```bash
 pwd
@@ -330,7 +330,7 @@ ssh supermann@192.168.1.45
 
 ---
 
-# 🧪 Practice Lab
+# Practice Lab
 
 ### Task 1
 
@@ -388,7 +388,7 @@ Connect to the Ubuntu Server from Windows using SSH.
 
 ---
 
-# 💼 Interview Questions
+# Interview Questions
 
 ### 1. What does the `pwd` command do?
 
@@ -430,7 +430,7 @@ sudo systemctl status ssh
 
 ---
 
-# 📸 Screenshots
+# Screenshots
 
 - Current Working Directory (`pwd`, `hostname`, `whoami`)<img width="1907" height="896" alt="Screenshot 2026-07-29 133523" src="https://github.com/user-attachments/assets/8290e40d-6b52-4f35-bb49-77c1e8442c93" />
 
@@ -450,7 +450,7 @@ sudo systemctl status ssh
 
 ---
 
-# 📝 Conclusion
+# Conclusion
 
 In this lab, I learned the fundamental Linux commands required for file and directory management, navigation, hidden file handling, and basic system information. I also installed and configured OpenSSH Server, enabling secure remote access to the Ubuntu Server from Windows using SSH. This setup provides a more efficient and professional environment for practicing Linux system administration and forms a strong foundation for future DevOps, Cloud Computing, and AWS administration tasks.
 
