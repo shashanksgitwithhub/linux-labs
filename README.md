@@ -2,13 +2,13 @@
   <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
-# 🐧 Linux Labs
+# Linux Labs
 <div align="center">
 </div>
 
 ---
 
-# 📖 About This Repository
+# About This Repository
 
 Welcome to my **Linux Labs** repository.
 
@@ -16,16 +16,15 @@ This repository documents my complete Linux learning journey, covering everythin
 
 Every topic includes:
 
-- 📚 Detailed Notes
-- 💻 Practical Labs
-- 🧠 Interview Questions
-- 📸 Screenshots
-- 🛠️ Hands-on Exercises
-- 🚀 Mini Projects
-
+- Detailed Notes
+- Practical Labs
+- Interview Questions
+- Screenshots
+- Hands-on Exercises
+  
 ---
 
-# 🎯 Objectives
+# Objectives
 
 - Learn Linux from beginner to advanced.
 - Understand the Linux operating system.
@@ -37,7 +36,7 @@ Every topic includes:
 
 ---
 
-# 🛣️ Learning Roadmap
+# Learning Roadmap
 
 | Day | Topic |
 |------|-------|
@@ -64,7 +63,7 @@ Every topic includes:
 
 ---
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```
 linux-labs/
@@ -95,7 +94,7 @@ linux-labs/
 
 ---
 
-# 💻 Linux Skills Covered
+# Linux Skills Covered
 
 ## Linux Fundamentals
 
@@ -226,7 +225,7 @@ RedHat / Amazon Linux
 
 ---
 
-# 🧪 Hands-on Labs
+# Hands-on Labs
 
 This repository includes practical labs such as:
 
@@ -245,7 +244,7 @@ This repository includes practical labs such as:
 
 ---
 
-# 🚀 Mini Projects
+# Mini Projects
 
 Some practical Linux projects included:
 
@@ -260,7 +259,7 @@ Some practical Linux projects included:
 
 ---
 
-# 🛠️ Tools Used
+# Tools Used
 
 - Ubuntu Linux
 - Bash
@@ -272,7 +271,7 @@ Some practical Linux projects included:
 
 ---
 
-# 🤝 Connect With Me
+# Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shashank-tj-s050724/">
