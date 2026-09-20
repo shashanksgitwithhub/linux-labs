@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Linux-Introduction-white" alt="AWS Badge">
 </p>
 
-# 🐧 Day-01 - Linux Introduction
+# Day-01 - Linux Introduction
 
 ## Objective
 
@@ -84,10 +84,7 @@ Benefits:
 
 Linux follows a layered architecture.
 
-
 <img width="322" height="322" alt="Linux_archi drawio" src="https://github.com/user-attachments/assets/c3a197e6-f61d-4b8f-94bd-df2bd3b9346a" />
-
-
 
 ### Hardware
 
@@ -200,7 +197,7 @@ No Linux commands were executed during Day-01.
 
 ---
 
-# ✅ Key Learnings
+# Key Learnings
 
 - Linux is an Open Source Operating System.
 - Linux was created by Linus Torvalds in 1991.
@@ -249,7 +246,7 @@ Ubuntu, Debian, Red Hat Enterprise Linux (RHEL), and Amazon Linux.
 
 ---
 
-# 📸 Screenshots
+# Screenshots
 
 * Linux Architecture
 * Ubuntu Desktop
@@ -258,7 +255,7 @@ Ubuntu, Debian, Red Hat Enterprise Linux (RHEL), and Amazon Linux.
 
 ---
 
-# 📝 Conclusion
+# Conclusion
 
 In this lab, I gained a strong understanding of Linux fundamentals, including its history, architecture, kernel, shell, and popular Linux distributions. I also learned why Linux is the preferred operating system for Cloud Computing and DevOps due to its stability, security, flexibility, and open-source nature.
 
