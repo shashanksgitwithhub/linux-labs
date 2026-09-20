@@ -3,7 +3,7 @@
 </p>
 
 
-# 🐧 Day-02 - Basic Linux Commands
+# Day-02 - Basic Linux Commands
 
 ## Objective
 
